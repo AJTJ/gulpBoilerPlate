@@ -18,6 +18,9 @@
       "gulp-concat": "^2.6.1",
       "gulp-sass": "^3.1.0",
       "gulp-minify-css": "latest",
-      "gulp-uglify": "latest"
+      "gulp-uglify": "latest",
+      "gulp-notify": "latest",
+      "gulp-plumber": "latest",
+      "gulp-sourcemaps": "latest"
    }
 }
